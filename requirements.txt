@@ -1,0 +1,8 @@
+torch
+python-dotenv
+datasets
+transformers
+optuna
+wandb
+peft
+BitsAndBytesConfig
