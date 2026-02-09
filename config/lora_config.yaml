@@ -1,0 +1,6 @@
+lora_default_configs={
+'target_modules':['q_proj','v_proj'],
+task_type='CAUSAL_LM',
+'lora_rank':8,
+'lora_alpha':16,
+'lora_dropout':0.1}
