@@ -39,3 +39,4 @@ class Model_load:
         q_model=get_peft_model(self.load_model(),
                                self.lora_configs())
         return q_model
+    
