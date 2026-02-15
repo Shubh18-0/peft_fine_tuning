@@ -1,6 +1,6 @@
 import torch 
 from torch import nn
-from torch import Trainer,TrainingArguments
+from transformers import Trainer,TrainingArguments
 from config.default_config import default_params
 import optuna
 from config.default_config import MODEL_NAME
