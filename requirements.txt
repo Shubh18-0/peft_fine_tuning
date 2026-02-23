@@ -5,7 +5,7 @@ transformers
 optuna
 wandb
 peft
-BitsAndBytesConfig
+bitsandbytes
 python
 fastapi
 uvicorn
